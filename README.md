@@ -29,7 +29,7 @@
 3. 合并时会有冲突，需要保证最后file1.txt的内容如下：
     ```
     If we can only encounter each other rather than stay with each other,then I wish we had never encountered.
-    I would like weeping with the smile rather than repenting with the cry,when my heart is broken ,is it needed to fix?
+    I would like weeping with the smile rather than repenting with the cry,when my heart is broken,is it needed to fix?
     men love from overlooking while women love from looking up. if love isa mountain, then if men go up, more women they will see while womenwill see fewer men.
     No one indebted for others,while many people don't know how to cherish others.
     honestly, if you're not willing to sound stupid, you don't deserve to be in love.
